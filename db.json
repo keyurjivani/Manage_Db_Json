@@ -1,14 +1,4 @@
-{
-  "User": [
-    {
-      "id": "bc83",
-      "Name": "a",
-      "Email": "a@gmail.com",
-      "Phone_No": "11",
-      "password": "1"
-    },
-    {
-      "id": "2b2b",let questions = [
+let questions = [
     {
       question:
         "What is an array of objects in JavaScript?",
@@ -212,32 +202,3 @@
     },
     
   ];
-      "Name": "b",
-      "Email": "b@gmail.com",
-      "Phone_No": "22",
-      "password": "2"
-    },
-    {
-      "id": "2cf6",
-      "Name": "c",
-      "Email": "c@gmail.com",
-      "Phone_No": "33",
-      "password": "3"
-    }
-  ],
-  "Products": [
-    {
-      "id": "c73b",
-      "title": "cczdbdfb",
-      "price": "54611323",
-      "url": "https://static.vecteezy.com/system/resources/thumbnails/009/273/280/small_2x/concept-of-loneliness-and-disappointment-in-love-sad-man-sitting-element-of-the-picture-is-decorated-by-nasa-free-photo.jpg"
-    },
-    {
-      "id": "27b1",
-      "title": "asj",
-      "price": "123",
-      "url": "https://wallpapers.com/images/featured/picture-en3dnh2zi84sgt3t.jpg"
-    }
-  ],
-  "Cart": []
-}
